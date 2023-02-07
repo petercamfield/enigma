@@ -1,0 +1,12 @@
+/Users/peter/Code/engdays/enigma/bin/Debug/net7.0/enigma.deps.json
+/Users/peter/Code/engdays/enigma/bin/Debug/net7.0/enigma.dll
+/Users/peter/Code/engdays/enigma/bin/Debug/net7.0/enigma.pdb
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.csproj.AssemblyReference.cache
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.AssemblyInfoInputs.cache
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.AssemblyInfo.cs
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.csproj.CoreCompileInputs.cache
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.dll
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/refint/enigma.dll
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/enigma.pdb
+/Users/peter/Code/engdays/enigma/obj/Debug/net7.0/ref/enigma.dll

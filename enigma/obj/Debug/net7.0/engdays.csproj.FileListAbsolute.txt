@@ -1,0 +1,12 @@
+/Users/peter/Code/engdays/engdays/bin/Debug/net7.0/engdays.deps.json
+/Users/peter/Code/engdays/engdays/bin/Debug/net7.0/engdays.dll
+/Users/peter/Code/engdays/engdays/bin/Debug/net7.0/engdays.pdb
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.csproj.AssemblyReference.cache
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.AssemblyInfoInputs.cache
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.AssemblyInfo.cs
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.csproj.CoreCompileInputs.cache
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.dll
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/refint/engdays.dll
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/engdays.pdb
+/Users/peter/Code/engdays/engdays/obj/Debug/net7.0/ref/engdays.dll
